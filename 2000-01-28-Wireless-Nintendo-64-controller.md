@@ -1,4 +1,3 @@
-
 ---
 layout: project_template
 title: Wireless Nintendo 64 controller
