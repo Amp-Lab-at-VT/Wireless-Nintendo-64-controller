@@ -4,7 +4,7 @@ title: Wireless Nintendo 64 controller
 description: The point of the project is to make a wireless Nintendo 64 controller and receiver that can replace the existing wired controllers used with the Nintendo 64. Also, this controller will be compatible with other retro gaming systems through the use of a compatible receiver. 
 date: 2000-01-28 09:00:00
 hero_image: /web/img/Wireless-Nintendo-64-controller/Hero.png
-image: /web/img/Wireless-Nintendo-64-controller/Hero.png
+# image /web/img/Wireless-Nintendo-64-controller/Hero.png
 hero_height: is-small
 hero_darken: true
 tags: project
