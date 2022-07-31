@@ -9,9 +9,7 @@ hero_height: is-small
 hero_darken: true
 tags: project
 series: amp_lab_project
-author: Joey Connor 
-Noah De La Hunt
-Hunter Long
+author: Joey Connor , Noah De La Hunt, Hunter Long
 show_sidebar: false
 ---
 
