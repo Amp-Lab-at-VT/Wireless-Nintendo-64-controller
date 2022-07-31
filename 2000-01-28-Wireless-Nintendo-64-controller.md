@@ -23,7 +23,7 @@ Noah De La Hunt
 Hunter Long
 
 ## Repo Link
-<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wireless-Nintendo-64-controller"" >Wireless-Nintendo-64-controller</a>
+<a class="button is-link" href="https://github.com/Amp-Lab-at-VT/Wireless-Nintendo-64-controller" >Wireless-Nintendo-64-controller</a>
 
 ## Photo
 
